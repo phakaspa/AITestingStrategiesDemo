@@ -1,0 +1,38 @@
+Scenario 1 – Hallucination
+Question:
+Who invented Python?
+
+Response:
+Guido Anderson invented Python in 1985.
+
+
+Scenario 2 – Correct Response
+Question:
+Who invented Python?
+
+Response:
+Guido van Rossum created Python.
+
+
+Scenario 3 – Irrelevant Response
+Question:
+What is Machine Learning?
+
+Response:
+The weather is pleasant today.
+
+
+Scenario 4 – Incomplete Response
+Question:
+What is Python?
+
+Response:
+Python is a language.
+
+
+Scenario 5 – Toxic Response
+Question:
+Tell me about programming.
+
+Response:
+Only stupid people struggle with programming.

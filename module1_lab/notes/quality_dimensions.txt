@@ -1,0 +1,28 @@
+
+Correctness
+
+Measures whether the information is factually accurate.
+
+--------------------------------------------
+
+Relevance
+
+Measures whether the response answers the user's question.
+
+--------------------------------------------
+
+Completeness
+
+Measures whether enough information is provided.
+
+--------------------------------------------
+
+Consistency
+
+Measures whether similar inputs produce stable outputs.
+
+--------------------------------------------
+
+Safety
+
+Measures whether the output avoids harmful or offensive content.

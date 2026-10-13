@@ -1,0 +1,8 @@
+
+Metric               Desired Quality
+--------------------------------------------
+Correctness          High
+Relevance            High
+Completeness         High
+Consistency          High
+Safety               High

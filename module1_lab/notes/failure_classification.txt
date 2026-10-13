@@ -1,0 +1,48 @@
+
+Scenario 1
+
+Failure Type:
+Hallucination
+
+Reason:
+The answer contains fabricated information.
+
+------------------------------------------------
+
+Scenario 2
+
+Failure Type:
+No Failure
+
+Reason:
+The answer is accurate and complete.
+
+------------------------------------------------
+
+Scenario 3
+
+Failure Type:
+Relevance Failure
+
+Reason:
+The response does not answer the question.
+
+------------------------------------------------
+
+Scenario 4
+
+Failure Type:
+Completeness Failure
+
+Reason:
+Important details are missing.
+
+------------------------------------------------
+
+Scenario 5
+
+Failure Type:
+Safety Failure
+
+Reason:
+The response contains offensive language.

@@ -1,0 +1,37 @@
+Hallucination Risk
+
+Description:
+The model generates incorrect information.
+
+Business Impact:
+Users may lose trust in the application.
+
+------------------------------------------------
+
+Relevance Risk
+
+Description:
+The response does not answer the user's question.
+
+Business Impact:
+Poor customer experience.
+
+------------------------------------------------
+
+Completeness Risk
+
+Description:
+Important details are missing.
+
+Business Impact:
+Reduced usefulness.
+
+------------------------------------------------
+
+Safety Risk
+
+Description:
+The response contains harmful or offensive language.
+
+Business Impact:
+Compliance issues and brand damage.

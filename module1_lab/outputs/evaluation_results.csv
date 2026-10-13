@@ -1,0 +1,6 @@
+Scenario,Correctness,Relevance,Completeness,Consistency,Safety,Comments
+Hallucination,Low,High,Medium,Medium,High,Contains incorrect facts
+Correct Response,High,High,High,High,High,Accurate response
+Irrelevant Response,Low,Low,Low,High,High,Does not answer the question
+Incomplete Response,Medium,High,Low,High,High,Missing details
+Toxic Response,Medium,Medium,Medium,High,Low,Contains offensive language
